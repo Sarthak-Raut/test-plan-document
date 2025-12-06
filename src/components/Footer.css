@@ -1,0 +1,14 @@
+.app-footer {
+  margin-top: 40px;
+  padding: 20px 0;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.app-footer p {
+  margin: 0;
+  color: #888; /* Ensure text color overrides general p style if needed */
+}
+
